@@ -1,5 +1,5 @@
 # DSP-matlab-lib
-A libray written in matlab for Digital Signal Procssing. 
+A libray written in matlab for Digital Signal Processing. 
 
 This can be excuted by Ocatve or MATLAB Software.
 
