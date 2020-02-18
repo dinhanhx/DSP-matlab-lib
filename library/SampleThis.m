@@ -1,4 +1,4 @@
-function [X, w] = SampleThis(analog, Ts, rangeN, numN, rangeW, numW)
+function [X, w, x, n] = SampleThis(analog, Ts, rangeN, numN, rangeW, numW)
 % analog is an anonymous function which is an analog signal aka
 % continous-time sginal.
 % Ts is sampling interval. Fs = 1/Ts.
